@@ -1,0 +1,32 @@
+_repo: Nancy-of-Paradise-Cottage_33554
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Watkins, Shirley
+    alias: Steinman, Shirley Watkins
+    birthdate: 1897
+    deathdate: 1979
+    gutenberg_agent_id: '36470'
+    url: http://www.gutenberg.org/2009/agents/36470
+description: ''
+gutenberg_issued: '2010-08-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33554'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'First loves -- Juvenile fiction'
+- !lcsh 'Social classes -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'Finance, Personal -- Juvenile fiction'
+- !lcsh 'Sisters -- Juvenile fiction'
+- !lcsh 'Social adjustment -- Juvenile fiction'
+title: Nancy of Paradise Cottage
+url: http://www.gutenberg.org/ebooks/33554
